@@ -1,1 +1,4 @@
-sample
+1. Pre-processing traffic volume dataset: 
+https://www.kaggle.com/ramyahr/metro-interstate-traffic-volume/notebook 
+https://jpvt.github.io/post/metro_traffic_volume/
+https://github.com/dawis96/regression-model-for-metro-interstate-traffic-volume
