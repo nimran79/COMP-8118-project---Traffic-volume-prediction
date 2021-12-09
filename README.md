@@ -10,6 +10,7 @@ Hourly Interstate 94 Westbound traffic volume data for MN DoT ATR station 301, a
 Estimate the Hourly Traffic volume.
 
 **How to Run the Project:**
+
 The project code is located at the root directory in 'DM_Project_metro_interstate_traffic_volume.ipynb'. Since this is a Jupyter notebook file, to run each section of the code, a person only needs to have the Jupyter Notebook environment installed in their device and then open the file and click on 'Run' to see output for that code section. 
 
 Make sure you have the following packages available/installed:
@@ -20,6 +21,6 @@ Make sure you have the following packages available/installed:
 - Pandas
 
 To install a specific library from Jupyter notebook directly, the following link is helpful:
-https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/
+- https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/
 
 Usually Anaconda distribution is installed then most of these packages will be included in Anaconda. 
