@@ -23,4 +23,4 @@ Make sure you have the following packages available/installed:
 To install a specific library from Jupyter notebook directly, the following link is helpful:
 - https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/
 
-Usually Anaconda distribution is installed then most of these packages will be included in Anaconda. 
+Usually Anaconda distribution is installed with most of these packages, so running Jupyter notebook from Anaconda is recommended. 
